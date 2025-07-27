@@ -5,9 +5,10 @@ This repository provides a simple demonstration of a Convolutional Neural Networ
 ## Contents
 
 - **Notebook Demo**  
-  A Jupyter Notebook demonstrating the CNN implementation and its performance on the MNIST dataset.
-  [Open in Google Colab](https://colab.research.google.com/drive/1oYbRdkrgTVKkwxGL3Lxye31pO0UfBh-9)
-  *(Source file: `Pytorch MNIST.ipynb`)*
+A Jupyter Notebook demonstrating the CNN implementation and its performance on the MNIST dataset.  
+[Open in Google Colab](https://colab.research.google.com/drive/1oYbRdkrgTVKkwxGL3Lxye31pO0UfBh-9)  
+*Source file: `Pytorch MNIST.ipynb`*
+
 
 - **Pre-trained Model**  
   `cnn.pth` — This file contains the saved parameters of a pre-trained CNN model.
