@@ -13,6 +13,14 @@ A Jupyter Notebook demonstrating the CNN implementation and its performance on t
 - **Pre-trained Model**  
   `cnn.pth` — This file contains the saved parameters of a pre-trained CNN model.
 
+- **Linear Regression Example**  
+  A notebook that walks through a synthetic example of linear regression using polynomial features. It demonstrates model selection, training using Ordinary Least Squares (OLS), and performance visualization.  
+  *Source file: `Notebook_Reg.ipynb`*
+
+- **Simple Neural Network Example**  
+  A basic feedforward neural network implementation using PyTorch. This notebook illustrates how a neural network can approximate a nonlinear function, showing the difference between linear models and deep learning methods.  
+  *Source file: `Notebook_DL.ipynb`*
+
 ## Notes
 
 - The MNIST dataset is used for handwritten digit classification.
