@@ -18,4 +18,6 @@ This repository provides a simple demonstration of a Convolutional Neural Networ
 - The pre-trained model (`cnn.pth`) can be loaded to skip training and directly evaluate performance.
 - If MNIST data is not available in your Google Colab environment, please run the **second code block** in the notebook to download the dataset before proceeding.
 
-<iframe src="https://drive.google.com/file/d/1oYbRdkrgTVKkwxGL3Lxye31pO0UfBh-9/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1oYbRdkrgTVKkwxGL3Lxye31pO0UfBh-9/preview" width="640" height="480" allow="autoplay">
+  
+</iframe>
